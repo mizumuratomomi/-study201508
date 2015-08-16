@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/study02/study02.iml" filepath="$PROJECT_DIR$/study02/study02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study03/study03.iml" filepath="$PROJECT_DIR$/study03/study03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study04/study04.iml" filepath="$PROJECT_DIR$/study04/study04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study05/study05.iml" filepath="$PROJECT_DIR$/study05/study05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study06/study06.iml" filepath="$PROJECT_DIR$/study06/study06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study07/study07.iml" filepath="$PROJECT_DIR$/study07/study07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study08/study08.iml" filepath="$PROJECT_DIR$/study08/study08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study09/study09.iml" filepath="$PROJECT_DIR$/study09/study09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study10/study10.iml" filepath="$PROJECT_DIR$/study10/study10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study11/study11.iml" filepath="$PROJECT_DIR$/study11/study11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study12/study12.iml" filepath="$PROJECT_DIR$/study12/study12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study13/study13.iml" filepath="$PROJECT_DIR$/study13/study13.iml" />
+    </modules>
+  </component>
+</project>

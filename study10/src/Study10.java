@@ -13,9 +13,21 @@
 public class Study10 {
     public static void main(String[] args) {
 
-        int fst = 0;
-        int scd = 1;
+        fibonatti(0, 1, 1);
 
-        int total;
     }
+
+    static long fibonatti(long i, long n, long counter) {
+
+        if (counter == 60) {
+            return i + n;
+        }
+
+        System.out.println(i + ":i");
+        System.out.println(n + ":n");
+        System.out.println(counter + ":counter");
+
+        return fibonatti(n, i + n, counter + 1);
+    }
+
 }
